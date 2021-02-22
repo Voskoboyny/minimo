@@ -1,0 +1,47 @@
+
+ul,li{
+	list-style: none;
+	padding-left: 100px;
+	float: right;
+
+
+	
+}
+a{
+	text-decoration: none;
+	color: #f2f2f2;
+	line-height: 42,2px;
+}
+.main_menu{
+
+
+}
+.menu{
+	
+}
+.content{
+
+}
+.head{
+	padding: 70px 75px;
+}
+.header_logo{
+	padding: 0px 304px 0px 0px;
+	
+
+}
+.content_block img {
+	
+	background: #f2f2f2;
+	width: 1125px;
+	float: left;
+	max-width: 100%;
+
+}
+
+.content_block{
+
+	
+
+	
+}
